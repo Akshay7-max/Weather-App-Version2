@@ -1,1 +1,2 @@
-# Weather-App-Version2
+# weather-app
+Weather app with darksky api.
